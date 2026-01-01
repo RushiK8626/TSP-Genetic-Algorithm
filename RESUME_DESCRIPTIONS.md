@@ -1,6 +1,6 @@
 # Resume Project Descriptions
 
-Below are 3-4 professional descriptions of this TSP Genetic Algorithm project that you can use in your resume. Choose the one that best fits your resume format and the role you're applying for.
+Below are 4 professional descriptions of this TSP Genetic Algorithm project that you can use in your resume. Choose the one that best fits your resume format and the role you're applying for.
 
 ---
 
@@ -19,7 +19,7 @@ Below are 3-4 professional descriptions of this TSP Genetic Algorithm project th
 **Genetic Algorithm for Traveling Salesman Problem | C, Algorithm Design**
 - Engineered a complete TSP solver using evolutionary computation techniques including selection, crossover, and mutation operators
 - Designed flexible architecture supporting both CSV file input and random city generation with coordinate-based distance calculations
-- Implemented command-line interface with 5+ configurable parameters for fine-tuning algorithm performance (population: 500, generations: 5000)
+- Implemented command-line interface with 5+ configurable parameters for fine-tuning algorithm performance (e.g., population: 500, generations: 5000)
 - Developed SVG visualization engine to render optimal routes graphically, enabling visual analysis of algorithm convergence
 - Optimized performance with execution time tracking and fitness-based selection improving solution quality by iterative evolution
 
